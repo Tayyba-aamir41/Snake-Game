@@ -1,4 +1,5 @@
-🐍 Snake Game (Python + Tkinter + OOP)
+🐍** Snake Game (Python + Tkinter + OOP)**
+
 Welcome to my version of the classic Snake Game, built entirely in Python using Tkinter for the GUI and random for food placement. This project follows Object-Oriented Programming (OOP) principles, making it clean, modular, and beginner-friendly to understand and expand.
 
 🎮 Features
